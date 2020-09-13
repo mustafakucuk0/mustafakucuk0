@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Echo State Networks**
 
-- 🌱 I’m currently learning **Reservoir Computing, Flutter, PyTorch, Cognitive and Social Psychology**
+- 🌱 I’m currently learning **Reservoir Computing, PyTorch, Cognitive and Social Psychology**
 
 - 📝 I regulary write articles on [https://medium.com/@mustafakucuk0](https://medium.com/@mustafakucuk0)
 
