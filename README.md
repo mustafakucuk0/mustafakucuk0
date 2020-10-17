@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A researcher who is thinking about artificial intelligence, social and cognitive psychology. Clarinetist. Clarinetist.</h3>
+<h3 align="center">A researcher who is thinking about artificial intelligence, social and cognitive psychology. Clarinetist.</h3>
 
 - 🔭 I’m currently working on **Echo State Networks**
 
