@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reservoir Computing, PyTorch, Cognitive and Social Psychology**
 
-- 📝 I regulary write articles on [https://medium.com/@mustafakucuk0](https://medium.com/@mustafakucuk0)
+- 📝 I rarely write articles on [https://medium.com/@mustafakucuk0](https://medium.com/@mustafakucuk0)
 
 - 📫 How to reach me **kucukmustafa468@gmail.com**
 
