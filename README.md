@@ -17,6 +17,4 @@
 <p align="center">
 <a href="https://twitter.com/mustafakucukp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mustafakucukp" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mustafakucuk0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafakucuk0" height="30" width="30" /></a>
-<a href="https://instagram.com/mustafakucuk0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mustafakucuk0" height="30" width="30" /></a>
-<a href="https://medium.com/@mustafakucuk0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafakucuk0" height="30" width="30" /></a>
 </p>
