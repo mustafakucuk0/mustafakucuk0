@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A researcher who is thinking about artificial intelligence, social and cognitive psychology. Clarinetist.</h3>
 
-- 🔭 I’m currently working on **Echo State Networks**
+- 🔭 I’m currently working on **CDN Analysis and Generative Art**
 
-- 🌱 I’m currently learning **Reservoir Computing, PyTorch, Cognitive and Social Psychology**
+- 🌱 I’m currently learning **Generative Art AND CDN Analysis**
 
 - 📫 How to reach me **kucukmustafa468@gmail.com**
 
-- ⚡ Fun fact **I'm doing live streams about the topics that I ponder.**
+- ⚡ Fun fact **I manage a team who recently published an AI digital exhibition.**
 - [The link for all my works and social media.](https://linktr.ee/mustafakucuk0)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakucuk0&layout=compact&hide=html" alt="mustafakucuk0" /></p>
