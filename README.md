@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CDN Analysis and Generative Art**
 
-- 🌱 I’m currently learning **Generative Art AND CDN Analysis**
+- 🌱 I’m currently learning **Generative Art and CDN Analysis**
 
 - 📫 How to reach me **kucukmustafa468@gmail.com**
 
