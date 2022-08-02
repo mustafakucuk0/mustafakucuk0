@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A researcher who is thinking about artificial intelligence, social and cognitive psychology. Clarinetist.</h3>
 
-- 🔭 I’m currently working on **CDN Analysis and Generative Art**
+- 🔭 I’m currently working on **Generative Art**
 
-- 🌱 I’m currently learning **Generative Art and CDN Analysis**
+- 🌱 I’m currently learning **Generative Art**
 
 - 📫 How to reach me **kucukmustafa468@gmail.com**
 
