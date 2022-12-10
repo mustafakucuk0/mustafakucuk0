@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
 - Founder at [Latent Memories](https://latentmemories.space)
-- 
+
 - 🔭 I’m currently working on **Generative Art**
 
 - 🌱 I’m currently learning **Generative Art**
