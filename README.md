@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative Art**
 
-- 📫 How to reach me **kucukmustafa468@gmail.com**
+- 📫 How to reach me **mustafa.kucuk@latentmemories.space**
 
 - ⚡ Fun fact **I manage a team who recently published an AI-assisted digital exhibition.**
 - [The link for all my works and social media.](https://linktr.ee/mustafakucuk0)
