@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mustafa.kucuk@latentmemories.space**
 
-- [The link for all my works and social media.](https://linktr.ee/mustafakucuk0)
+- [The link for all my works and social media.](https://bento.me/mustafakucuk)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakucuk0&layout=compact&hide=html" alt="mustafakucuk0" /></p>
 
