@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **mustafa.kucuk@latentmemories.space**
 
-- ⚡ Fun fact **I manage a team who recently published an AI-assisted digital exhibition.**
 - [The link for all my works and social media.](https://linktr.ee/mustafakucuk0)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakucuk0&layout=compact&hide=html" alt="mustafakucuk0" /></p>
